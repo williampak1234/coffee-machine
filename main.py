@@ -91,3 +91,4 @@ cups_amount = updated_stats[3]
 money_amount = updated_stats[4]
 
 show_stats()
+exit()
